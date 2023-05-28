@@ -13,4 +13,8 @@ and so does the "index".
 
 Now if the value of "index" becomes more than 0, then we will return listTile with values "listTODO[index]",
 which is basically the items of that list.
+
+This is how the App will look like:
+
+
 <img width="371" alt="App Photo" src="https://github.com/AshikGtHb/ToDo-App-Flutter/assets/83348192/d5274492-2b37-425c-815d-909c092a2e51">
