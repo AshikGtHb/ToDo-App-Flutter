@@ -4,7 +4,10 @@ This is how the TODO App will look like:
 
 <img width="371" alt="App Photo" src="https://github.com/AshikGtHb/ToDo-App-Flutter/assets/83348192/d5274492-2b37-425c-815d-909c092a2e51">
 
+
+
 TODO App:
+
 This is a simple app for flutter beginners.
 In this project, we will use listviewbuilder.
 
