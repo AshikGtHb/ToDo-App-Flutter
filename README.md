@@ -1,2 +1,15 @@
-# ToDo-App-Flutter
-This is a simple ToDo App created in Flutter. It is a simple project that can be done by Flutter beginners.
+# todo_app
+
+This is a simple app for flutter beginners.
+In this project, we will use listviewbuilder.
+
+We will create a list listTODO with one empty string '' in the 0th index.
+
+After that, in the listViewbuilder, we will create a variable "index" such that 
+if the value of index is 0, we will return a TextFormField. The "index" is the value of the index of the list
+listTODO. If the user inputs text values in the TextFormField, the same value will be added to the list 
+"listTODO". Hence, each time the user inputs the text value, the length of "listTODO" increases
+and so does the "index".
+
+Now if the value of "index" becomes more than 0, then we will return listTile with values "listTODO[index]",
+which is basically the items of that list.
